@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{577:function(n,e,t){"use strict";t.r(e);var r=t(575),o=t.n(r);window.L=o.a;var c={name:"index",beforeCreate:function(){this.$nuxt.$router.push("/map")}},l=t(96),component=Object(l.a)(c,(function(){var n=this.$createElement;return(this._self._c||n)("div")}),[],!1,null,null,null);e.default=component.exports}}]);
