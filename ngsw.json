@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1659037312253,
+  "timestamp": 1659038070927,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -59,14 +59,14 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "/assets/icons/icon-128x128.png": "8c83c77b27c71c54dbd174d529a6860eb1e6b752",
-    "/assets/icons/icon-144x144.png": "1260a62096436fcef0f87b02b4acde393a4e3956",
-    "/assets/icons/icon-152x152.png": "f585e891376aea44db07054faeba20e67e9b045c",
+    "/assets/icons/icon-128x128.png": "1564371ec5bd4ba9676de21e2478e92f4e0d1700",
+    "/assets/icons/icon-144x144.png": "ef605baccff361412bb1580522ca3c9824df8d9c",
+    "/assets/icons/icon-152x152.png": "d0a738a0d3063992eeeb1c440102b2e5e61af055",
     "/assets/icons/icon-192x192.png": "158707551deb19d599c489c3bf36671b40568ee0",
     "/assets/icons/icon-384x384.png": "12b22d0418e077db8fc3b122cf3f6754307e5dd4",
     "/assets/icons/icon-512x512.png": "9f95df7114253534f20f9c9ba287e84d9813fd33",
-    "/assets/icons/icon-72x72.png": "9f3d351c0773a7520b07975f2b843364a6393c0a",
-    "/assets/icons/icon-96x96.png": "a0c1d9cecda00a0c7a28adb3b0b9eb0e0ba77c65",
+    "/assets/icons/icon-72x72.png": "fddecb9fd1ea783b6149f06d10034b6a125a6ba2",
+    "/assets/icons/icon-96x96.png": "6a17878d65af70496ac44b2bf801855199d0476f",
     "/assets/only-guns.png": "ee347880d9f490b8d144a7fe0a4a32ca08094d71",
     "/color.dae87a04d07ca92b.png": "ff4c4bcb2207891b292f544edb4da9d2df5d45cf",
     "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
